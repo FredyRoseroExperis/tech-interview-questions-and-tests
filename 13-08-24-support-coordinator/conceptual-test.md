@@ -18,7 +18,7 @@ Se realiza un dialogo libre y fluido con el candidato para conocer su experienci
 
 ## Technical test
 
-La prueba técnica a continuación debe publicarse en un repositorio de código abierto (por ejemplo, GitHub) y enviarse a <desarrollo3@experis.co> y <paola.carrasco@experis.co> como un enlace al repositorio. Debe estar acompañado de un archivo README que explique detalladamente cómo instalar y ejecutar la aplicación. Se cuenta con una hora para completar la prueba desde el momento que ue se comparte este documento.
+La prueba técnica a continuación debe publicarse en un repositorio de código abierto (por ejemplo, GitHub) y enviarse a <desarrollo3@experis.co> y <paola.carrasco@experis.co> como un enlace al repositorio. Debe estar acompañado de un archivo README que explique detalladamente cómo instalar y ejecutar la aplicación (entorno virtual python, BD postgreSQL, archivos .env), exponer un arbol de directorio y explicar la finalidad de cada archivo clave. Se cuenta con una hora y media (1,5 hroas) para completar la prueba desde el momento en que se comparte este documento. Tambien debe anexar un documento de word con las capturas de pantalla de la ejecución satisfactoria de los 3 puntos.
 
 7. Crear un módulo básico de Odoo que gestione una lista de tareas. El módulo debe permitir:
     * Crear, editar y eliminar tareas.
@@ -31,6 +31,9 @@ La prueba técnica a continuación debe publicarse en un repositorio de código 
     * Estado de la tarea (completada o pendiente).
 
 9. Crear un script de php que lea todas las tareas ejecutando SQL directamente a la tabla del módulo de Odoo creado en la pregunta 7 y las muestre en una tabla HTML. 
+
+**Nota**: En el repositorio debe estar listo para un despliegue en un entorno de producción incluyendo archivo SQL de creación de la base de datos, archivo .env con las variables de configuración, y un archivo README con las instrucciones de instalación y ejecución.
+
 
 ## Criteria for evaluation
 
