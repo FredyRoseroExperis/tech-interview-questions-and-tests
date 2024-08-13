@@ -8,3 +8,4 @@ Ingeniero de sistemas con más de 3 años de experiencia en roles de coordinaci�
 * Conocimientos en PostgreSQL experiencia en desarrollo de software seguro, git y con dominio en el modelo de metodologías agiles en soluciones Azure Devops.  
 * Conocimiento en ERP Oddo. 
 
+Ir a [prueba](conceptual-test.md).
