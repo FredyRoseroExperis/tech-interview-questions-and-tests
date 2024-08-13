@@ -25,12 +25,12 @@ La prueba técnica a continuación debe publicarse en un repositorio de código 
     * Marcar una tarea como completada.
     * Filtrar tareas por estado (completadas, pendientes).
 
-8. Crear un script de python que cree una tarea en el módulo de Odoo creado en la pregunta anterior. El script debe aceptar los siguientes parámetros:
+8. Crear un script de python que cree una tarea ejecutando SQL directamente a la tabla del módulo de Odoo creado en la pregunta anterior. El script debe aceptar los siguientes parámetros:
     * Título de la tarea.
     * Descripción de la tarea.
     * Estado de la tarea (completada o pendiente).
 
-9. Crear un script de php que lea todas las tareas del módulo de Odoo creado en la pregunta 4 y las muestre en una tabla HTML. 
+9. Crear un script de php que lea todas las tareas ejecutando SQL directamente a la tabla del módulo de Odoo creado en la pregunta 7 y las muestre en una tabla HTML. 
 
 ## Criteria for evaluation
 
