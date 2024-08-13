@@ -18,7 +18,7 @@ Se realiza un dialogo libre y fluido con el candidato para conocer su experienci
 
 ## Technical test
 
-La prueba técnica a continuación debe publicarse en un repositorio de código abierto (por ejemplo, GitHub) y enviarse al reclutador como un enlace al repositorio. Debe estar acompañado de un archivo README que explique detalladamente cómo instalar y ejecutar la aplicación. Se cuenta con una hora para completar la prueba desde el momento que ue se comparte este documento.
+La prueba técnica a continuación debe publicarse en un repositorio de código abierto (por ejemplo, GitHub) y enviarse a <desarrollo3@experis.co> y <paola.carrasco@experis.co> como un enlace al repositorio. Debe estar acompañado de un archivo README que explique detalladamente cómo instalar y ejecutar la aplicación. Se cuenta con una hora para completar la prueba desde el momento que ue se comparte este documento.
 
 7. Crear un módulo básico de Odoo que gestione una lista de tareas. El módulo debe permitir:
     * Crear, editar y eliminar tareas.
