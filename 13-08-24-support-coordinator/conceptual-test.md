@@ -10,25 +10,27 @@ Se realiza un dialogo libre y fluido con el candidato para conocer su experienci
 
 3. Estás liderando el equipo de soporte técnico de una empresa que utiliza Odoo como su sistema ERP principal. Un cliente reporta que las operaciones de inventario están siendo lentas y el sistema ocasionalmente arroja errores al procesar grandes volúmenes de datos. Como Coordinador de Soporte, ¿cómo abordarías la identificación y resolución del problema? ¿Qué herramientas de Odoo y procedimientos aplicarías para diagnosticar y solucionar este tipo de problemas?
 
-4. Estas encargado del soporte de un proyecto que trabaja con con Azure DevOps y notaste en un commit reciente que un desarrollador hardcodeó una contraseña en un archivo de configuración. ¿Cuál sería tu enfoque para abordar este problema? ¿Qué medidas tomarías para garantizar la seguridad de las credenciales y evitar que se repita en el futuro?	
+4. En tu equipo de trabajo, se detecto que por acccidente un desarrollador realizó un commit erróneo en en la rama de producción de un proyecto crítico. ¿Cómo manejarías esta situación? ¿Qué medidas tomarías para revertir el commit y evitar que situaciones similares ocurran en el futuro? ¿Qué procedimientos y controles implementarías para garantizar la calidad y la integridad del código en el futuro?
 
-5. Un cliente ha reportado que Odoo no puede conectarse a la base de datos, aunque la conexión de red parece estar funcionando correctamente. Realizas un ping desde la máquina donde se ejecuta Odoo a la base de datos y obtienes una respuesta, lo que confirma que hay conectividad. Sin embargo, Odoo sigue mostrando un error de conexión a la base de datos. Como Coordinador de Soporte, ¿qué pasos seguirías para diagnosticar y resolver este problema? ¿Qué podrías revisar relacionado con los puertos TCP y la configuración de red?
+5. Estas encargado del soporte de un proyecto que trabaja con con Azure DevOps y notaste en un commit reciente que un desarrollador hardcodeó una contraseña en un archivo de configuración. ¿Cuál sería tu enfoque para abordar este problema? ¿Qué medidas tomarías para garantizar la seguridad de las credenciales y evitar que se repita en el futuro?	
+
+6. Un cliente ha reportado que Odoo no puede conectarse a la base de datos, aunque la conexión de red parece estar funcionando correctamente. Realizas un ping desde la máquina donde se ejecuta Odoo a la base de datos y obtienes una respuesta, lo que confirma que hay conectividad. Sin embargo, Odoo sigue mostrando un error de conexión a la base de datos. Como Coordinador de Soporte, ¿qué pasos seguirías para diagnosticar y resolver este problema? ¿Qué podrías revisar relacionado con los puertos TCP y la configuración de red?
 
 ## Technical test
 
 La prueba técnica a continuación debe publicarse en un repositorio de código abierto (por ejemplo, GitHub) y enviarse al reclutador como un enlace al repositorio. Debe estar acompañado de un archivo README que explique detalladamente cómo instalar y ejecutar la aplicación. Se cuenta con una hora para completar la prueba desde el momento que ue se comparte este documento.
 
-5. Crear un módulo básico de Odoo que gestione una lista de tareas. El módulo debe permitir:
+7. Crear un módulo básico de Odoo que gestione una lista de tareas. El módulo debe permitir:
     * Crear, editar y eliminar tareas.
     * Marcar una tarea como completada.
     * Filtrar tareas por estado (completadas, pendientes).
 
-6. Crear un script de python que cree una tarea en el módulo de Odoo creado en la pregunta anterior. El script debe aceptar los siguientes parámetros:
+8. Crear un script de python que cree una tarea en el módulo de Odoo creado en la pregunta anterior. El script debe aceptar los siguientes parámetros:
     * Título de la tarea.
     * Descripción de la tarea.
     * Estado de la tarea (completada o pendiente).
 
-7. Crear un script de php que lea todas las tareas del módulo de Odoo creado en la pregunta 4 y las muestre en una tabla HTML. 
+9. Crear un script de php que lea todas las tareas del módulo de Odoo creado en la pregunta 4 y las muestre en una tabla HTML. 
 
 ## Criteria for evaluation
 
